@@ -1,0 +1,6 @@
+Enter student full name: ahmad
+Enter student ID: 88
+Enter grade: 90
+Data saved successfully!
+
+[Program finished]

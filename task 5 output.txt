@@ -1,0 +1,11 @@
+Enter student name (maximum 19 characters): noor
+Enter student ID: 14
+Enter student grade: 80
+Do you want to add another record? (y/n): y
+Enter student name (maximum 19 characters): abdelrahman
+Enter student ID: 26
+Enter student grade: 98
+Do you want to add another record? (y/n): n
+Student records saved successfully!
+
+[Program finished]

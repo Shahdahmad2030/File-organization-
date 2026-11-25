@@ -1,0 +1,8 @@
+Enter number of persons: 2
+Enter name: ahmad
+Enter age: 22
+Enter name: abdelrahman
+Enter age: 19
+Results saved successfully!
+
+[Program finished]
