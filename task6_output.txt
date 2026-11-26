@@ -1,0 +1,22 @@
+Sample Output
+=============
+
+Grades before deletion:
+90
+85
+70
+95
+80
+Enter the grade to delete: 70
+Grade deleted successfully!
+Grades after deletion:
+90
+85
+95
+80
+
+Final contents of grades.txt:
+90
+85
+95
+80
